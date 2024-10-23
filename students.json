@@ -2,15 +2,15 @@
     {
         "id": "b2ecde3b-08b6-471d-b86f-b16218d65e82",
         "name": "Max Mustermann",
-        "position": "Schueler",
-        "klasse": "10a",
-        "imageURL": "https://www.apple.com"
+        "className": "10a",
+        "studentEmail": "test@student.com",
+        "profileImageURL": "https://www.apple.com"
     },
     {
-        "id": "123e4567-e89b-12d3-a456-426614174001",
-        "name": "Erika Mustermann",
-        "position": "Schueler",
-        "klasse": "10d",
-        "imageURL": "https://www.apple.com"
+        "id": "f59b3eaa-4ae3-417b-8213-f7e3c70a6c55",
+        "name": "Test 1",
+        "className": "EF",
+        "studentEmail": "test@student2.com",
+        "profileImageURL": "https://www.apple.com"
     }
 ]
