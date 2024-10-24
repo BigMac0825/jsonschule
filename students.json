@@ -12,5 +12,12 @@
         "className": "EF",
         "studentEmail": "test@student2.com",
         "profileImageURL": "https://www.apple.com"
+    },
+    {
+        "id": "12345",
+        "name": "ID EINFACH",
+        "className": "Keine Klasse",
+        "studentEmail": "noemail@student.com",
+        "profileImageURL": "https://hatrabbits.com/wp-content/uploads/2017/01/random.jpg"
     }
 ]
