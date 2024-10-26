@@ -1,6 +1,6 @@
 [
     {    
-        "id": 3b7916e4-06f5-47d1-a29b-45dbc2dfec7d,
+        "id": "3b7916e4-06f5-47d1-a29b-45dbc2dfec7d",
         "name": "Gerd Hoffmann",
         "birth": "1. Dezember 1920",
         "subj": "Chemie, Biologie",
@@ -10,7 +10,7 @@
         "ratings": [1, 20, 10, 70]
     },
     {    
-        "id": add0a2d4-a811-4cb5-aa00-ea824325c3da,
+        "id": "add0a2d4-a811-4cb5-aa00-ea824325c3da",
         "name": "Jenny Maiwald",
         "birth": "1. Dezember 1920",
         "subj": "DEUTSCH",
