@@ -28,5 +28,14 @@
         "email": "m.drummen@rhg-krefeld.de",
         "imageURL": "https://rhg-krefeld.de/wp-content/uploads/2023/08/Chemie-2023.24-HP.jpg",
         "ratings": [100, 80, 79, 95]
-    }
+    },
+    {
+    "id": "7911adc8-991f-477a-9a4c-cc8d59ce5385",
+    "name": "Kerstin Franck",
+    "birth": "18. Dezember 2000",
+    "subj": "Chemie, Biologie",
+    "stage": "Fachlehrer",
+    "email": "k.franck@rhg-krefeld.de",
+    "imageURL": "https://rhg-krefeld.de/wp-content/uploads/2023/08/Chemie-2023.24-HP.jpg",
+    "ratings": [60, 80, 79, 95, 44, 70]
 ]
